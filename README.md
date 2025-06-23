@@ -52,3 +52,11 @@ As classes foram divididas entre os membros do grupo, com base em responsabilida
 - Importe o projeto na sua IDE (ex: IntelliJ, Eclipse, VSCode).
 
 - Compile e execute a classe Main.java (caso exista).
+
+--- 
+
+| Nome            | Responsável por                    |
+| --------------- | ---------------------------------- |
+| \[Integrante 1]    | Pessoas, Funcionários e Ponto   |
+| \[Integrante 2] | Produtos, Vendas e Estoque         |
+| \[Integrante 3] | Pagamento, Nota Fiscal, Relatórios |
