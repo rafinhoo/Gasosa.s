@@ -29,7 +29,7 @@ As classes foram divididas entre os membros do grupo, com base em responsabilida
 - `Gerente`
 
 ### 🛒 Pessoa 2 – Produtos e Vendas
-- `Produto`
+- `Produto` (abstrata)
 - `Combustivel`
 - `LojaConveniencia`
 - `Venda`
