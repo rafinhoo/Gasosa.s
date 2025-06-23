@@ -55,6 +55,8 @@ As classes foram divididas entre os membros do grupo, com base em responsabilida
 
 --- 
 
+## 🤝 Colaboradores
+
 | Nome            | Responsável por                    |
 | --------------- | ---------------------------------- |
 | \[Integrante 1]    | Pessoas, Funcionários e Ponto   |
