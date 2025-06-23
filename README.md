@@ -40,3 +40,15 @@ As classes foram divididas entre os membros do grupo, com base em responsabilida
 - `NotaFiscal`
 - `FormaPagamento` (enum)
 - `HistoricoVenda`
+
+---
+
+## 🚀 Como Executar o Projeto
+
+###  🗂️ Clone o repositório:
+
+- git clone https://github.com/seu-usuario/Gasosa.s.git
+
+- Importe o projeto na sua IDE (ex: IntelliJ, Eclipse, VSCode).
+
+- Compile e execute a classe Main.java (caso exista).
